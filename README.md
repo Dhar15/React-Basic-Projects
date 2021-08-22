@@ -21,4 +21,4 @@ npm start
 Acknowledgements-
 - [John Smilga](https://johnsmilga.com)
 - [React course](https://www.youtube.com/watch?v=4UZrsTqkcW4) 
-- [freecodecamp.org]("https://www.freecodecamp.org/")
+- [freecodecamp.org](https://www.freecodecamp.org/)
