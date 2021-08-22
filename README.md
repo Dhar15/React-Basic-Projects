@@ -19,6 +19,6 @@ npm start
 4. View the project on your web browser by visiting `localhost:3000`
  
 Acknowledgements-
-- <a href="https://www.johnsmilga.com/" target="__blank"> John Smilga </a>
+- [John Smilga](https://johnsmilga.com)
 - <a href="https://www.youtube.com/watch?v=4UZrsTqkcW4" target="__blank"> React course </a>
 - <a href="https://www.freecodecamp.org/" target="__blank"> freecodecamp </a>
