@@ -1,7 +1,7 @@
 # React-Basic-Projects
 ## <i>15 fundamental React projects for beginners to start with</i>
 
-Find the projects here - <a href="https://react-projects.netlify.app/" target="__blank">React Projects </a>
+Find the project templates here - <a href="https://react-projects.netlify.app/" target="__blank">React Projects </a>
 
 ### To run my projects, clone them into your system and then -
 1. cd into the respective project name. Ex -
