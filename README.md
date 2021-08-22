@@ -20,5 +20,5 @@ npm start
  
 Acknowledgements-
 - [John Smilga](https://johnsmilga.com)
-- <a href="https://www.youtube.com/watch?v=4UZrsTqkcW4" target="__blank"> React course </a>
-- <a href="https://www.freecodecamp.org/" target="__blank"> freecodecamp </a>
+- [React course](https://www.youtube.com/watch?v=4UZrsTqkcW4) 
+- [freecodecamp.org]("https://www.freecodecamp.org/")
